@@ -1,1 +1,4 @@
 首先创建用户 useradd -s /sbin/nologin -M nginx
+yum install -y python 
+python install.py install
+http://47.105.191.150/verynginx/index.html
